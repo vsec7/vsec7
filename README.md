@@ -15,18 +15,18 @@
 package main
 
 type Me struct{
-  Pronouns string
   Code string
   Job string
   BestAndFavoriteSkill string
+  Twitter string
 }
 
 func main() {
   me := &Me{
-    Job: "Security Engineer and Bugbounty Hunter.",
-    Pronouns: "He/Him",
-    Code: "PHP, Go, Python and Everythings",
-    BestAndFavoriteSkill: "Web Hacking :D"
+    Job: "Bug Bounty Hunter and Backend developer",
+    Code: "Python, PHP, Go and Everythings",
+    BestAndFavoriteSkill: "Web and Mobile Hacking",
+    Twitter: "https://twitter.com/verry__d"
   }
   _ = me
 }
