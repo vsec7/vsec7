@@ -3,6 +3,8 @@
 <p><em>Security Engineer and Bugbounty Hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vsec7&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=vsec7)
 [![Twitter: verry__d](https://img.shields.io/twitter/follow/verry__d?style=flat-square)](https://twitter.com/verry__d)
 [![GitHub vsec7](https://img.shields.io/github/followers/vsec7?label=follow%20github&style=flat-square)](https://github.com/vsec7)
 [![Paypal viloid](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/viloid)
