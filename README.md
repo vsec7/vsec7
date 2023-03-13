@@ -1,7 +1,6 @@
 <h2> Hi, I'm Viloid 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=vsec7&show_icons=true&theme=radical" width="380">
-<p><em>Security Engineer and Bugbounty Hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-</em></p>
+<p>Hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vsec7&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=vsec7)
@@ -19,15 +18,15 @@ package main
 type Me struct{
   Code string
   Job string
-  BestAndFavoriteSkill string
+  Skill string
   Twitter string
 }
 
 func main() {
   me := &Me{
-    Job: "Bug Bounty Hunter and Backend developer",
-    Code: "Python, PHP, Go and Everythings",
-    BestAndFavoriteSkill: "Web and Mobile Hacking",
+    Job: "Backend Dev and Bug Bounty Hunter",
+    Code: "Python, PHP, Javascript, and Go",
+    Skill: "Web and Mobile Hacking",
     Twitter: "https://twitter.com/verry__d"
   }
   _ = me
